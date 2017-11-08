@@ -1,0 +1,176 @@
+/*WEBSITE TEMPLATE*/
+Website template https://html5up.net/telephasic
+
+/*MAIN PAGE*/
+Hero Image 
+http://bajawalla.com/wp-content/uploads/2017/03/Blue-Background-Color-Gallery-1L.jpg
+
+Architecture Image 
+http://www.ncat.edu/coe/departments/
+
+Components Image
+http://www.wallpaperskid.com/wallpaper-images/86/y-lenovo-gaming-desktop-PMQB8i.jpg
+
+Buying Guide Image 
+http://moshlab.com/computer-peripheral-all-logo-images-wallpaper-desktop-and-mobile-682388/
+UCD Image https://recruitee.com/hiring-resources/wp-content/uploads/2015/11/picjumbo.com_HNCK5108.jpg
+
+/*Architecture*/
+Information
+https://www.cis.upenn.edu/~milom/cis501-Fall11/lectures/00_intro.pdf
+https://www.techopedia.com/definition/26757/computer-architecture
+
+Computer Architecture Word Image 
+https://previews.123rf.com/images/masterart/masterart1309/masterart130900008/23005196-A-word-cloud-of-computer-architecture-related-items-Stock-Vector.jpg
+
+von Neumann Architecture
+http://www.teach-ict.com/as_as_computing/ocr/H447/F453/3_3_3/vonn_neuman/miniweb/pg3.htm
+
+von Neumann Architectuer Image 
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Von_Neumann_Architecture.svg/1200px-Von_Neumann_Architecture.svg.png
+
+/*Components*/
+Information
+http://www.cs.utah.edu/~germain/PPS/Topics/architecture.html
+
+Input Image
+https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2015/09/logitech-bluetooth-keyboard-mouse.jpg?itok=qr6NZBHD
+
+Output Image
+http://pixelvulture.com/wp-content/uploads/2016/03/Review.jpg
+
+Process Image
+https://www.google.ie/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjb9NCj-6vTAhVTkRQKHRwdA-kQjBwIBA&url=http%3A%2F%2F1920x1080hdwallpapers.com%2Fimage%2F201505%2Fcomputers%2F1460%2Fnvidia-processor-chip-tegra-3.jpg&psig=AFQjCNEzTB_wQZV29Nbu8hbE2zrlEylFFQ&ust=1492534713390334
+
+Memory Image
+https://images6.alphacoders.com/475/475824.jpg
+
+Descriptions
+www.computerhope.com
+
+/*Input*/
+Information
+http://www.computerhope.com/jargon/i/inputdev.htm
+
+Keyboard Image
+https://cnet4.cbsistatic.com/img/bg4P8BzjYP1iV51vVjpkEX6sbrc=/1600x900/2016/11/09/e3ae97e7-4bcb-40f3-a348-836e0b344d58/gettyimages-4528832561.jpg
+http://cdn.computerhope.com/keyboard/keyboard.jpg
+
+Mouse Image
+https://www.logitech.com/assets/64678/mx-master-wireless-mouse.png
+
+Webcam Image
+https://www.logitech.com/assets/64204/pro-webcam-ultra-wide-angle.png
+
+Keyboard Facts
+https://keyshorts.com/blogs/blog/41838657-31-weird-fun-facts-about-computer-keyboards-you-didnt-know-about
+
+Mouse Facts
+http://www.iceni.com/blog/7-facts-about-the-computer-mouse/
+http://www.paperdroids.com/2013/07/07/10-things-you-probably-didnt-know-about-the-computer-mouse/
+
+Webcam Facts
+http://tenrandomfacts.com/webcam/
+
+/*Output*/
+Information
+http://www.computerhope.com/jargon/o/outputde.htm
+
+Monitor
+https://en.wikipedia.org/wiki/Computer_monitor
+
+Headphone
+https://en.wikipedia.org/wiki/Headphones
+
+Speaker Image
+http://s3images.coroflot.com/user_files/individual_files/original_383021_7x8dje3RbyhJ7NDuF7YYuR3xg.jpg
+
+Monitor Image
+http://i.dell.com/sites/imagecontent/products/PublishingImages/snp-responsive/23202-monitor-se2717h-260x200.png
+http://3dvision-blog.com/wp-content/uploads/2012/02/samsung-crt-monitor.jpg
+
+Audio Devices Image
+http://bpc.h-cdn.co/assets/16/18/980x980/gallery-1462307808-creative-t30-speakers.jpg
+http://img.bbystatic.com/BestBuy_US/en_US/images/abn/2015/global/buyingguides/RE_headphones/dj.png
+
+Printer Image
+https://www.google.ie/search?q=printer&espv=2&site=webhp&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjj3KjcoKzTAhUMCsAKHbbOAQEQ_AUIBigB&biw=1536&bih=735#imgrc=0Mb3-BN6S_J-tM:
+
+Monitor Facts
+http://wiki.kidzsearch.com/wiki/Computer_monitor
+
+Audio Devices Facts
+http://tenrandomfacts.com/loudspeaker/
+http://wiki.kidzsearch.com/wiki/Loudspeaker
+
+Headphone Facts
+http://tenrandomfacts.com/headphone/
+
+Printer Facts
+http://printerstop.com/blog/10-crazy-facts-about-printers/
+
+/*Process*/
+Information
+http://whatis.techtarget.com/definition/processor
+
+CPU
+https://en.wikipedia.org/wiki/Central_processing_unit
+https://www.lifewire.com/what-is-a-cpu-2618150
+
+GPU
+https://blogs.nvidia.com/blog/2009/12/16/whats-the-difference-between-a-cpu-and-a-gpu/
+
+/*Memory*/
+Information
+http://www.computerhope.com/jargon/m/memory.htm
+
+RAM
+https://en.wikipedia.org/wiki/Random-access_memory
+
+HDD
+http://www.computerhope.com/jargon/h/harddriv.htm
+
+SSD
+https://en.wikipedia.org/wiki/Solid-state_drive
+
+HDD Facts
+http://www.rookiejournal.com/interesting-facts-hard-drive-history.html
+
+SSD Facts
+http://www.computerhope.com/jargon/s/ssd.htm
+
+/*Buying*/
+Information
+http://www.consumerreports.org/cro/computers/buying-guide
+
+Buying Image
+http://wallpaperswide.com/laptop-wallpapers.html
+
+Speed Image
+https://smallbiztrends.com/wp-content/uploads/2014/06/how-to-increase-computer-speed-660x369.jpg
+
+Power Consumption Image
+http://www.wirelesssensors.com/images/content/low_power_consumption_header.jpg
+
+Operating System Image
+https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAcAAAAAJGJjZWY5OTg2LWY1OGEtNDhjMC05OWY4LTgyM2E2M2MyMjEwMg.jpg
+
+Graphic Image
+https://asset.msi.com/global/picture/image/feature/vga/NVIDIA/GTX1080/carousel_TF6.jpg
+
+HDD Image
+http://static.diffen.com/uploadz/f/f5/HDD-1.jpg
+
+SSD Image
+http://www.corsair.com/~/media/corsair/product%20photos/ssd/force-series-ls-v2/large/ssdv2_fls_angle_960.png
+
+Optical Image
+https://nerdtechy.com/wp-content/uploads/2015/12/LG-WH16NS40-Super-Multi-Blu-ray-Disc-Rewriter.jpg
+
+Battery Image
+http://www.eachbattery.com/images/N855P.JPG
+
+/*UCD*/
+Information
+http://www.usabilityfirst.com/about-usability/introduction-to-user-centered-design/
+https://www.w3.org/WAI/redesign/ucd
