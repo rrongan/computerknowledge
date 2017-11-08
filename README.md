@@ -5,7 +5,7 @@ This GitHub repository contains the source code my website.
 The website is the project for both __User Centered Design__ modules.
 
 ## Introduction
-The topic of my website is computer architecture for beginners. I named the website as Computer Knowledge because the website not only shows users the information of computer architecture but also other basic computer knowledge. In this report, we will look at the 5 analysis of website – needs analysis, user analysis, task analysis, functional analysis and requirement analysis. After that, we will investigate the personas and scenarios created by myself. Then, the prototypes of website will be shown and wireframes will be investigated next. Finally, 3 style tiles will be looked at the end of the report.
+The topic of my website is computer architecture for beginners. I named the website as Computer Knowledge because the website not only shows users the information of computer architecture but also other basic computer knowledge.
 
 ## Website Details
 
