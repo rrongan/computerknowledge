@@ -42,18 +42,22 @@ Timeline:
 
 ### Hosting
 Hosting website: [www.biz.nf](www.biz.nf)
-Domain of Computer Knowledge: (www.compknowledge.co.nf)
+
+Domain of Computer Knowledge: [www.compknowledge.co.nf](www.compknowledge.co.nf)
 
 ### Survey
 Website: SurveyMonkey
+
 URL: [https://www.surveymonkey.com/r/W3N7RRH](https://www.surveymonkey.com/r/W3N7RRH)
 
 ### Presentation
 Website: Prezi
+
 Slide URL: [http://prezi.com/deipm7g9tac2/?utm_campaign=share&utm_medium=copy&rc=ex0share](http://prezi.com/deipm7g9tac2/?utm_campaign=share&utm_medium=copy&rc=ex0share)
 
 ### Personas And Scenarios
 Website: Xtensio
+
 URL: https://app.xtensio.com/folio/r5xo80tz
 
 ### Prototypes
